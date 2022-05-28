@@ -1,0 +1,515 @@
+.bg-changed{
+background-color:  #313132 !important;
+}
+
+.bg-changed .collapse  ul li a{
+    color: lightgray !important;
+    font-size: small !important;
+}
+/*  */
+.my-nav-links li a :hover
+{
+
+    color: white !important;
+
+}
+
+/* .my-nav-links{
+    position: absolute;
+    /* z-index: 1000; */
+    /* top: 1; */
+/* }  */
+.links-sec {
+    display: flex;
+    justify-content: space-around;
+    position: sticky !important;
+    top: 0;
+    z-index: 1;
+
+}
+.app-logo {
+    display: none;
+    
+}
+.app-bag {
+    display: none;
+    
+}
+.unicef-part
+{
+    
+background-color: 
+#f5f5f7;
+}
+.unicef-part .unicef-sm
+{
+    display: none;
+}
+.unicef-part .unicef-div{
+    /* width: max-content; */
+    max-width: max-content;
+    min-width: 300px;
+}
+.unicef-img{
+    margin: 0 auto !important;
+}
+.unicef-part a
+{
+    margin-top: 8px;
+    margin: 5px;
+    text-align: center;
+}
+.iPhone-13-pro
+{
+    background-image: url(./images/hero_iphone13pro_avail__iy77cld0zwii_large.jpg);
+    background-position:  center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 45px 35px;
+    height: 650px;
+}
+.iPhone-13-pro-and-iPhone-SE h1{
+    font-size: 60px;
+}
+
+ .anchor-div a{
+    font-size: x-large !important;
+    
+
+}
+.anchor-div i{
+    font-size: medium;
+}
+.iPhone-13-pro-and-iPhone-SE{
+    width: max-content;
+    margin: 0 auto ;
+}
+.the-new-iPhone-SE{
+    background-image: url(./images/hero_iphonese_avail__eg8srhcnpo66_large.jpg);
+    background-position:  center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    margin-top: 15px;
+    padding: 45px 35px;
+
+}
+.the-new-iPhone-SE h3{
+    width: max-content;
+    margin: 8px auto;
+}
+/* .iPhone-SE-img{
+    width: max-content;
+    margin: 0 auto;
+} */
+/* .the-new-iPhone-SE a{
+
+    display: inline-block;
+    font-size: x-large;
+    margin: 5px 30px;
+
+} */
+.iphone-SE-visl-md{
+    display:  none;
+}
+.the-new-iPhone-SE h2{
+    font-weight: normal !important;
+}
+.iphone-SE-visl-md-x{
+    display: none;
+}
+.ipad-air-sec{
+    background-image: url(./images/hero_ipadair_avail__dsqv5nn0tpsi_large.jpg);
+    background-position:  center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 670px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    /* align-items: baseline; */
+
+}
+.ipad-air-div{
+    width: max-content !important;
+    margin: 0 150px;
+}
+
+.ipad-air-div  h3{
+    font-weight: normal;
+}
+.ipad-air-div a{
+    display: inline-block;
+    font-size: x-large;
+    margin: 5px 30px;
+}
+.WWDC22{
+    background-image: url(./images/promo_wwdc_announce__dr6w8rxice4i_large.jpg);
+    background-position:  center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+
+}
+.WWDC22 a{
+  
+    font-size: 20px;
+}
+.WWDC22 h4{
+    font-weight: normal
+}
+.promo-watch{
+    background-image: url(./images/promo_watch_lte__djeaso7ukrsm_large.jpg);
+    background-position:  center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    
+}
+.promo-iPhone-13{
+    background-image: url(./images/promo_iphone13_avail__frc36u35m0ii_large.jpg);
+    background-position:  center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+.promo-studio-display {
+    background-image: url(./images/promo_studiodisplay_avail__d1cx9j73ooq6_large.jpg);
+    background-position:  center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+.apple-card{
+
+    background-image: url(./images/tile__cauwwcyyn9hy_large.jpg);
+    background-position:  center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    text-align: center;
+    
+}
+.apple-tv{
+
+    background-image: url(./images/promo_tehran_s2__fmlpxspqi9ua_large.jpg);
+    background-position:  center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    
+}
+.cards-3-rows i{
+    font-size: medium;
+
+}
+.cards-3-rows a{
+    font-size: 20px;
+    
+}
+.cards-3-rows h5{
+    font-size: x-large;
+    font-weight: normal;
+    color: #5b5b5d;
+    text-align: center;
+}
+.cards-3-rows h4{
+    color: #5b5b5d;
+}
+.apple-tv .tehran-for-small{
+    display: none;
+    
+}
+footer{
+    background-color: #f5f5f7;
+}
+.one {
+    padding: 0;
+}
+.one ul {
+    padding: 0 !important;
+}
+.one ul li {
+    color: #5b5b5d !important;
+    list-style: none;
+    margin: 10px 0;
+
+}
+.one button{
+    
+    background-color:transparent !important;
+    outline: none !important;
+    border: none;
+}
+.one ul li a {
+    color: #5b5b5d !important;
+}
+.bord{
+    border-right: 1px solid #5b5b5d;
+}
+@media only screen and (max-width : 992px)
+{
+    .links-sec{
+        display: flex;
+        justify-content: space-between;
+    }
+    .links-sec ul li{
+        border-bottom: 1px solid #5b5b5d;
+        /* width: 100%; */
+    }
+  
+    .app-logo {
+        display: flex !important;
+        color: lightgray !important;
+        font-size: x-large !important;
+        /* position: sticky;
+        top: 0; */
+
+    }
+
+    .app-bag{
+        display: flex !important;
+        color: lightgray !important;
+    font-size: x-large !important;
+
+    }
+    }
+   
+    @media only screen and (max-width : 1070px)
+    {
+
+        .iPhone-13-pro h1 {
+            font-size: 45px;
+        }
+        .the-new-iPhone-SE{
+            background-image: url(./images/hero_iphonese_avail__eg8srhcnpo66_medium.jpg);
+            background-position:  center center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .iphone-SE-hide-md{
+            display: none !important;
+        }
+        .iphone-SE-visl-md{
+            display: inline-block !important;
+        }
+        .the-new-iPhone-SE h2{
+            font-size: 30px  ;
+        }
+        
+.ipad-air-sec{
+    background-image: url(./images/hero_ipadair_avail__dsqv5nn0tpsi_medium_2x.jpg);
+    background-position:  center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: center;
+
+    }
+    .WWDC22{
+        background-image: url(./images/promo_wwdc_announce__dr6w8rxice4i_medium_2x.jpg);
+        background-position:  center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 500px;
+    
+    }
+    .WWDC22 h4{
+        font-size: larger;
+    }
+    .WWDC22  a{
+        font-size: large;
+    }
+    .promo-watch{
+        background-image: url(./images/promo_watch_lte__djeaso7ukrsm_medium.jpg);
+        background-position:  center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 500px;
+    }
+    
+    .promo-watch a
+    {
+font-size:medium;
+    }
+    .promo-iPhone-13{
+        background-image: url(./images/promo_iphone13_avail__frc36u35m0ii_medium.jpg);
+        background-position:  center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 500px;
+    
+    }
+    .promo-studio-display{
+        background-image: url(./images/promo_studiodisplay_avail__d1cx9j73ooq6_medium.jpg);
+        background-position:  center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 500px;
+    }
+    .apple-card{
+
+        background-image: url(./images/tile__cauwwcyyn9hy_medium.jpg);
+        background-position:  center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 650px;
+        
+    }
+    .apple-tv{
+    
+        background-image: url(./images/promo_tehran_s2__fmlpxspqi9ua_medium.jpg);
+        background-position:  center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 650px;
+        
+    }
+    
+}
+    @media only screen and (max-width:760px)
+    {
+        .iPhone-13-pro{
+
+            background-image: url(./images/hero_iphone13pro_avail__iy77cld0zwii_small.jpg);
+            background-position:  center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+        }
+    }
+    @media only screen and (max-width:735px)
+    {
+        .unicef-div{
+            display: flex;
+            flex-direction: column;
+        }
+      .unicef-img{
+          margin: 0 auto;
+          /* display: flex; */
+      }
+        .unicef-sm{
+            /* display: flex; */
+            margin: 0 auto;
+        }
+        .unicef-lg{
+            display: none;
+        }
+        .unicef-part a{
+            width: 68%;
+            margin: 5px auto 0 auto;
+        }
+        /* .iphone-SE-visl-md{
+            display: none;
+        }
+        .iphone-SE-visl-md-x{ */
+            /* display: inline-block; */
+        /* }
+        .iphone-SE-hide-md{
+            display: none;
+        } */
+        .the-new-iPhone-SE{
+            background-image: url(./images/hero_iphonese_avail__eg8srhcnpo66_small_2x.jpg);
+            background-position:  center center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .the-new-iPhone-SE h2{
+            font-size:22px !important;
+            width: max-content !important;
+            margin: 0 auto !important;
+            
+        }
+        /* .the-new-iPhone-SE a{
+            font-size: x-large;
+        } */
+        .ipad-air-div h3{
+            font-size: 25px;
+        }
+        .ipad-air-div a{
+            font-size: large;
+        }
+        .anchor-div a{
+            font-size: large !important; 
+background-color: transparent !important;
+        }
+        .ipad-air-div img{
+            display: flex !important;
+            justify-content: center !important;
+            align-items: center !important;
+        }
+       
+    }
+    @media only screen and (max-width:770px)
+    {
+        .WWDC22{
+            background-image: url(./images/promo_wwdc_announce__dr6w8rxice4i_small.jpg);
+            background-position:  center center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 500px;
+        
+        }
+        .promo-watch{
+            background-image: url(./images/promo_watch_lte__djeaso7ukrsm_small.jpg);
+            background-position:  center center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .promo-iPhone-13{
+            background-image: url(./images/promo_iphone13_avail__frc36u35m0ii_small.jpg);
+            background-position:  center center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 500px;
+        
+        }
+        .promo-studio-display{
+            background-image: url(./images/promo_studiodisplay_avail__d1cx9j73ooq6_small.jpg);
+            background-position:  center center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    }
+    @media only screen and (max-width:440px)
+    {
+
+        .promo-iPhone-13{
+            background-image: url(./images/promo_iphone13_avail__frc36u35m0ii_small_2x.jpg);
+            background-position:  center center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .apple-card{
+
+            background-image: url(./images/tile__cauwwcyyn9hy_small.jpg);
+            background-position:  center center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 650px;
+            
+        }
+        .apple-tv{
+        
+            background-image: url(./images/promo_tehran_s2__fmlpxspqi9ua_small.jpg);
+            background-position:  center center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 650px;
+            
+        }
+       
+    }
+    @media only screen and (max-width:920px)
+    {
+        .apple-tv .tehran-for-small{
+            display: inline-block;
+            
+        }
+        .tehran-for-Large{
+            display: none;
+        }
+    }
